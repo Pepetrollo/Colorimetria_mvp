@@ -1,0 +1,2 @@
+FIREBASE_API_KEY=tu_api_key
+FIREBASE_AUTH_DOMAIN=tu_auth_domain
